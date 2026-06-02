@@ -1,0 +1,12 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.indentSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "prettier.configPath": ".prettierrc",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}

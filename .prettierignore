@@ -1,0 +1,9 @@
+dist
+node_modules
+specs
+build
+coverage
+.vite
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
