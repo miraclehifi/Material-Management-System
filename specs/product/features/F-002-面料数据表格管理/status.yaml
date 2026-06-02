@@ -1,0 +1,41 @@
+feature: F-002
+name: "面料数据表格管理"
+status: planning
+mode: takeover
+created: 2026-06-02
+updated: 2026-06-02
+
+phases:
+  feature_overview: in_progress
+  story_grouping: pending
+  user_stories: pending
+  behaviors: pending
+  acceptance_tests: pending
+  ui_design: null
+  architecture: pending
+  domain_design: pending
+  task_planning: pending
+  implementation: pending
+  code_review: pending
+  validation: pending
+
+current_phase: feature_overview
+approvals:
+  requirements: false
+  ui_design: null
+  design: false
+  tasks: false
+
+sprint: null
+current_task: null
+progress:
+  total_tasks: 0
+  completed_tasks: 0
+team_mode: false
+team_name: null
+blockers: []
+notes: "由 /sdd:adopt-scan 创建，存量项目接入"
+history:
+  - timestamp: "2026-06-02T00:00:00Z"
+    action: created
+    notes: "adopt Phase 2 创建"

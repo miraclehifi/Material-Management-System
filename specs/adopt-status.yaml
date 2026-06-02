@@ -1,0 +1,29 @@
+mode: takeover
+created: 2026-06-02
+phase1: done
+phase2: done
+
+features:
+  - id: F-001-OCR图片识别
+    scope: done
+    adopt_spec: pending
+  - id: F-002-面料数据表格管理
+    scope: done
+    adopt_spec: pending
+  - id: F-003-多人实时同步
+    scope: done
+    adopt_spec: pending
+  - id: F-004-历史记录管理
+    scope: done
+    adopt_spec: pending
+  - id: F-005-Excel导出
+    scope: done
+    adopt_spec: pending
+  - id: F-006-手机端录入
+    scope: done
+    adopt_spec: pending
+  - id: F-007-系统设置
+    scope: done
+    adopt_spec: pending
+
+graduated: false
